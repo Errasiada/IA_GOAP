@@ -4,30 +4,33 @@ In this practice the main task is creating an Unity 3D project applying a GOAP s
 
 For this demo, there will be three Agent types. These are the actions that those Agents will take place:
 
-- Child Agent: 
+- Customer Agent: 
 
-1. Arrive to the park
+1. Arrive to the bar
 
-2. Play with the wheel
+2. Order
 
-3. Play with the slide
+3. Go to the table
 
-4. Run
+4. Eat / Drink
 
-- Cleric Agent:
+5. Leave the bar
 
-1. Arrive to the park
+- Chef Agent:
 
-2. Sit in a bench
+1. Arrive to the kitchen
 
-3. Chase the Child
+2. Cook
 
-- Policeman Agent:
+3. Call the barman
 
-1. Arrive to the park
+- Barman Agent:
 
-2. Stay near the stand
+1. Arrive to the bar
 
-3. Chase the Cleric
+2. Serve food/drink
 
-After deciding the agent's behaviours, I used several Assets from the Unity Asset Store to recreate the scene, such as Playground Lowpoly, Lowpoly Medieval Priest, Lowpoly 3D Animated Nuts and Police Officer.
+3. Clean tables
+
+
+After deciding the agent's behaviours, I used several Assets from the Unity Asset Store to recreate the scene.
