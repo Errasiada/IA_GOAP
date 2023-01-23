@@ -34,3 +34,6 @@ For this demo, there will be three Agent types. These are the actions that those
 
 
 After deciding the agent's behaviours, I used several Assets from the Unity Asset Store to recreate the scene.
+
+![image](https://user-images.githubusercontent.com/114673717/214023532-ae85bd0d-9b48-4f3f-922f-5739b84f16cc.png)
+
