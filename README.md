@@ -16,21 +16,21 @@ For this demo, there will be three Agent types. These are the actions that those
 
 5. Leave the bar
 
-- Chef Agent:
+- Barman Agent:
 
 1. Arrive to the kitchen
 
-2. Cook
+2. Serve coffee
 
-3. Call the barman
+3. Kick jehovas witnesses
 
-- Barman Agent:
+- Jehovas Witness Agent:
 
 1. Arrive to the bar
 
-2. Serve food/drink
+2. Disturb customers
 
-3. Clean tables
+3. Leave bar
 
 
 After deciding the agent's behaviours, I used several Assets from the Unity Asset Store to recreate the scene.
