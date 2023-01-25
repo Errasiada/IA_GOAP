@@ -10,7 +10,7 @@ For this demo, there will be three Agent types. These are the actions that those
 
 - Jehovas Witness Agent: 1. Arrive to the bar 2. Disturb customers 3. Leave bar
 
-- Delivery Man agent 1. Arrive to the bar 2. Deliver products 3. Leave bar
+- Delivery Man Agent: 1. Arrive to the bar 2. Deliver products 3. Leave bar
 
 After deiciding the different agents and its behaviours, I created the map- There is the kitchen and bar area where the barman agent moves, the chairs and tables for the customer, and an exit and entrance area. Also, different prefabs as the characters. The yellow characters are the Customers, the black character is the Jehova Witness, and the orange character are the Barman - Delivery man.
 
