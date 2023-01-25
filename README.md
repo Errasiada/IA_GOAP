@@ -8,21 +8,21 @@ For this demo, there will be three Agent types. These are the actions that those
 
 1. Arrive to the bar
 
-2. Order
+2. Order Menu
 
 3. Go to the table
 
-4. Eat / Drink
-
-5. Leave the bar
+4. Leave the bar
 
 - Barman Agent:
 
 1. Arrive to the kitchen
 
-2. Serve coffee
+2. Prepare Menu
 
-3. Kick jehovas witnesses
+3. Serve Menu
+
+4. Kick jehovas witnesses
 
 - Jehovas Witness Agent:
 
@@ -32,8 +32,15 @@ For this demo, there will be three Agent types. These are the actions that those
 
 3. Leave bar
 
+- Delivery Man agent
 
-After deciding the agent's behaviours, I used several Assets from the Unity Asset Store to recreate the scene.
+1. Arrive to the bar
+
+2. Deliver products
+
+3. Leave bar
+
+After deiciding the different agents and its behaviours, I created the map and added different prefabs as characters. The yellow characters are the Customers, the black character is the Jehova Witness, and the orange character are the Barman - Delivery man.
 
 ![image](https://user-images.githubusercontent.com/114673717/214023532-ae85bd0d-9b48-4f3f-922f-5739b84f16cc.png)
 
